@@ -1,0 +1,5 @@
+fluid.quicksand=Quick Sand
+tile.flowingquicksand.name=Quick Sand
+potion.effect.quicksand=Quick Sand Bottle
+splash_potion.effect.quicksand=Quick Sand SplashBottle
+lingering_potion.effect.quicksand=Quick Sand LingeringBottle
